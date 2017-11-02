@@ -111,7 +111,8 @@ img{
 	text-decoration: none;
 }
 
-.navigation-menu-list a:before, a:after {
+.navigation-menu-list a:before,
+.navigation-menu-list a:after {
 	content: '';
 	position: absolute;
 	width: 0%;
